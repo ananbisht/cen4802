@@ -1,3 +1,3 @@
 # cen4802
-Professor : Ian O'Toole
-Anant Bisht
+# Professor : Ian O'Toole
+# Anant Bisht
